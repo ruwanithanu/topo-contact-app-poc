@@ -1,9 +1,9 @@
-# topo-contact-app-poc
- Topo Solution Contact Application - First React App
+# Test-contact-app-poc
+ Test Solution Contact Application - First React App
 
-# Topo Contact App
+# Test Contact App
 
-The Topo Contact App solution is a stand-alone REST API project (.NET CORE API), and a
+The Test Contact App solution is a stand-alone REST API project (.NET CORE API), and a
 front-end project (React).
 
 ## App Details
